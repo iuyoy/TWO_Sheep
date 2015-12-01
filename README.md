@@ -1,7 +1,7 @@
 # TWO_Sheep
 Wait for uploading
 
-A script of the wall of sheep for http protocol in windows
+A script to get network packets
 
 Based on:
 - python 2.7
